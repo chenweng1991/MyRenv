@@ -1195,18 +1195,6 @@
       "Repository": "CRAN",
       "Hash": "177475892cf4a55865868527654a7741"
     },
-    "gephi": {
-      "Package": "gephi",
-      "Version": "1.0.0",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "gephi",
-      "RemoteUsername": "RMHogervorst",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "bd6f70006193bf2032d2b733bb31d014b204a860",
-      "Hash": "feda8771bb2a360d3f33fdfb07b68f69"
-    },
     "gert": {
       "Package": "gert",
       "Version": "1.5.0",
